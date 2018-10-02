@@ -1,0 +1,13 @@
+@import '_helpers/variaveis';
+@import '_helpers/mixins';
+@import '_bases/base';
+@import '_layout/nav';
+@import '_layout/header';
+@import '_layout/principal';
+@import '_layout/section';
+@import '_layout/footer';
+@import '_layout/header-personalidades';
+@import '_layout/perfil-divas';
+@import '_layout/autora';
+
+//ideal criar uma pasta só para os media query, e criar import para pasta
