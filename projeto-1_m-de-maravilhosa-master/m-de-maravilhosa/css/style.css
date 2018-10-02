@@ -359,13 +359,6 @@ li {
           box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
 }
 
-@media (min-width: 768px) {
-  .maravilhosas__perfil p {
-    font-size: 1.5rem;
-    margin-top: 1rem;
-  }
-}
-
 /* --- FOOTER --- */
 .rodape {
   background-color: #323534;

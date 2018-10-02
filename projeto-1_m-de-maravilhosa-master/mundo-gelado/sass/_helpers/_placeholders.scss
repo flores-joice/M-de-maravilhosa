@@ -1,0 +1,15 @@
+%height_display{
+    height: auto;
+    display: block;
+  }
+
+  %alignItems_justContent{
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  %flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

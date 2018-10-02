@@ -6,8 +6,7 @@
     z-index: 99;
     &__menu {
       display: flex;
-      align-items: center;
-      justify-content: flex-end;
+      @extend %alignItems_justContent;
       height: 85px;
     }
     &__link {
